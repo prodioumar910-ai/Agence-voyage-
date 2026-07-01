@@ -1,0 +1,6 @@
+{
+  "name": "AURA Évasions",
+  "description": "Landing page haut de gamme pour une agence de voyages de luxe et sur-mesure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
